@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574366367289.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5467E136",
+    "lastKnownWriteTime" : 31244199163330658,
+    "last_content_update" : 1574366367289,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2E34F12C",
+        "caption" : "cut.df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cut.df&cache_key=2E34F12C",
+        "displayedObservations" : 60,
+        "environment" : "",
+        "expression" : "cut.df",
+        "object" : "cut.df",
+        "preview" : 0,
+        "totalObservations" : 60,
+        "variables" : 7
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

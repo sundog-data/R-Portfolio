@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572283414708.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B44A205E",
+    "lastKnownWriteTime" : 8319104478871053602,
+    "last_content_update" : 1572283414708,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3D2E192C",
+        "caption" : "crime.sum",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=crime.sum&cache_key=3D2E192C",
+        "displayedObservations" : "23",
+        "environment" : "",
+        "expression" : "crime.sum",
+        "object" : "crime.sum",
+        "preview" : "0",
+        "totalObservations" : "23",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571174768652.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1755699940",
+    "id" : "FFE5578D",
+    "lastKnownWriteTime" : 1580858979,
+    "last_content_update" : 1580858979297,
+    "path" : "~/Career/Application_Fall2019/R Portfolio/R_portfolio_SeattleCrime.R",
+    "project_path" : "R_portfolio_SeattleCrime.R",
+    "properties" : {
+        "cursorPosition" : "286,0",
+        "scrollLine" : "264",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

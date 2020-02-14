@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572280824251.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "132E3EED",
+    "lastKnownWriteTime" : 1572280621,
+    "last_content_update" : 1572280824251,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "43B57EE4",
+        "caption" : "na.df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=na.df&cache_key=43B57EE4",
+        "displayedObservations" : "16",
+        "environment" : "",
+        "expression" : "na.df",
+        "object" : "na.df",
+        "preview" : "0",
+        "totalObservations" : "16",
+        "variables" : "19"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

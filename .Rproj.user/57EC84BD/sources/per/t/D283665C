@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577916847092.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D283665C",
+    "lastKnownWriteTime" : 1687899629880,
+    "last_content_update" : 1577916847092,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "23D0A86A",
+        "caption" : "pred.mod2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pred.mod2&cache_key=23D0A86A",
+        "displayedObservations" : 50,
+        "environment" : "",
+        "expression" : "pred.mod2",
+        "object" : "pred.mod2",
+        "preview" : 0,
+        "totalObservations" : 50,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 18,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

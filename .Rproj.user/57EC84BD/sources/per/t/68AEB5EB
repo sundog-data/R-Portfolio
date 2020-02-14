@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572287212685.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "68AEB5EB",
+    "lastKnownWriteTime" : 1572287079,
+    "last_content_update" : 1572287212685,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "context" : "package:ggplot2:::aes"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_code_browser"
+}

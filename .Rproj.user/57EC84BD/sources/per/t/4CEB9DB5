@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574366124274.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4CEB9DB5",
+    "lastKnownWriteTime" : 28429462281388132,
+    "last_content_update" : 1574366124274,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5EA947FA",
+        "caption" : "long.df",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=long.df&cache_key=5EA947FA",
+        "displayedObservations" : "1770",
+        "environment" : "",
+        "expression" : "long.df",
+        "object" : "long.df",
+        "preview" : "0",
+        "totalObservations" : "1770",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
